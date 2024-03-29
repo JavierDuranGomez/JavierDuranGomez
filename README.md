@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javier</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Javier</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javierdurangomez&label=Profile%20views&color=0e75b6&style=flat" alt="javierdurangomez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javierdurangomez" alt="javierdurangomez" /></a> </p>
