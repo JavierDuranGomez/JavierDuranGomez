@@ -28,12 +28,12 @@
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 <div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierdurangomez&" alt="javierdurangomez" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierdurangomez&show_icons=true&locale=en&layout=compact" alt="javierdurangomez" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierdurangomez&show_icons=true&locale=en" alt="javierdurangomez" />
 </div>
 
-<p></p>
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javierdurangomez&show_icons=true&locale=en" alt="javierdurangomez" /></p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierdurangomez&" alt="javierdurangomez" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javierdurangomez" alt="javierdurangomez" /></a> </p>
